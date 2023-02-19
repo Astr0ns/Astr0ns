@@ -7,7 +7,7 @@
 
 <div>
   <a href"https://github.com/astr0ns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astr0ns&show_icons=true&theme=midnight-purple"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astr0ns&layout=compact&theme=midnight-purple"></div>
 </div>
 <div style="display: inline_block"><br>
