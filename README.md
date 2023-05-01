@@ -20,12 +20,12 @@
 
 ## 🛠️ Conhecimento
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   
   <img align="center" alt="heitor-js" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
      <img align="center" alt="heitor-html" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="heitor-css" height="38" widht="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" alt="heitor-zoro" height="204" widht="108" src="https://i.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.webp">
+  
   
 </div>  
 
@@ -33,15 +33,15 @@
 ## 📱 Redes Sociais
   
   
- <div>
+ <div align="center">
   <a href="https://instagram.com/0_Heit0r" target="_blank" >
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
   <a href="https://linkedin.com/in/samuel-heitor-dos-santos-moreira-40185b250" target="_blank" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:samuelheitor685@gmail.com" target="_blank" >
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9325fa&height=120&section=footer"/>
-  
+  <div align="center">
+    <img align="center" height="204em" widht="108em" src="https://i.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.webp">
+  </div>
