@@ -41,5 +41,5 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="mailto:samuelheitor685@gmail.com" target="_blank" >
             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-            <img align="right" height="204em" widht="108em" src="https://i.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.webp">
+            <img align="right" height="204em" widht="108em" src="https://i.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.webp">
   </div>
