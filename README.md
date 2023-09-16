@@ -2,10 +2,13 @@
 <img width=100% src="https://camo.githubusercontent.com/66a9c81f8f0ab13cd64483549d831c851832a5535cfb46b2b3c9c7f384b0c79c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d23393332356661"/>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Olá+,+meu+Nome+é+Samuel+Heitor.😄+;+Seja+bem+vindo+ao+meu+perfil.😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Samuel+Heitor.😄+;+Welcome+to+my+perfil.😎)](https://git.io/typing-svg)
 
 <div>
-- 👨🏾‍🎓 2/3 Estudante de INI(Informática para Internet) no ITB.<br> - 📓 Estudando para me tornar um Desenvolvedor Web.<br> - 18 Anos de idade.
+ 
+- 👨🏾‍🎓 2/3 INI student (Internet Computing) at ITB.
+- 📓 Studying to become a full stack.
+- 🥳 18 years old.
 
 </div>
 
@@ -18,7 +21,7 @@
   </a>
 </div>
 
-## 🛠️ Conhecimento
+## 🛠️ Knowledge
 
 <div align="center" style="display: inline_block"><br>
   
