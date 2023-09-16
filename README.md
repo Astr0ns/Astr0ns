@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Olá+,+meu+Nome+é+Samuel+Heitor.😄+;+Seja+bem+vindo+ao+meu+perfil.😎)](https://git.io/typing-svg)
 
 <div>
-- 👨🏾‍🎓 Estudante de INI(Informática para Internet) no ITB.<br> - 📓 Estudando para me tornar um Desenvolvedor Web.
+- 👨🏾‍🎓 2/3 Estudante de INI(Informática para Internet) no ITB.<br> - 📓 Estudando para me tornar um Desenvolvedor Web.<br> - 18 Anos de idade.
 
 </div>
 
