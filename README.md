@@ -35,7 +35,7 @@
 </div>  
 
 
-## 📱 Redes Sociais
+## 📱 Social Media
   
   
  <div align="center" display="inline-block">
