@@ -25,12 +25,12 @@
 
 <div align="center" style="display: inline_block"><br>
   
-  <img align="center" alt="heitor-js" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+   <img align="center" alt="heitor-js" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
       <img align="center" alt="heitor-html" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <img align="center" alt="heitor-css" height="38" widht="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       <img align="center" alt="heitor-node" height="100" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
       <img align="center" alt="heitor-MySQL" height="38" widht="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
+      <img align="center" alt="heitor-html" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
 </div>  
 
