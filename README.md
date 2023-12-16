@@ -47,4 +47,5 @@
         <a href="mailto:samuelheitor685@gmail.com" target="_blank" >
             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
             <img align="right" height="204em" widht="108em" src="https://i.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.webp">
+            <img align="right" height="204em" width="108em" src="https://i.giphy.com/xrZuNcEAmTb6U.webp">
   </div>
