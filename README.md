@@ -44,7 +44,7 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
         <a href="https://linkedin.com/in/samuel-heitor-dos-santos-moreira-40185b250" target="_blank" >
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href="mailto:samuelheitor685@gmail.com" target="_blank" >
+        <a href="mailto:samuelheitor685@gmail.com?subject=Assunto%20do%20E-mail&body=Corpo%20do%20e-mail.">
             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
             <img align="right" height="204em" widht="108em" src="https://i.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.webp">
             <img align="right" height="204em" width="108em" src="https://i.giphy.com/xrZuNcEAmTb6U.webp">
