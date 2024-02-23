@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Samuel+Heitor.😄+;+Welcome+to+my+perfil.😎)](https://git.io/typing-svg)
 
 <div>
+
+##
  
 - 👨🏾‍🎓 2/3 INI student (Internet Computing) at ITB.
 - 📓 Studying to become a full stack.
