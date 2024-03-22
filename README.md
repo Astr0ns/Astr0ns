@@ -35,7 +35,14 @@
         <a href="https://linkedin.com/in/samuel-heitor-dos-santos-moreira-40185b250" target="_blank" >
             <img src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=a456f7" target="_blank"></a>
         <a href="mailto:samuelheitor685@gmail.com?subject=Assunto%20do%20E-mail&body=Corpo%20do%20e-mail.">
-            <img src="https://img.shields.io/badge/-Gmail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=a456f7" target="_blank"></a>
-            <img align="right" height="204em" widht="108em" src="https://i.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.webp">
-            <img align="right" height="204em" width="108em" src="https://i.giphy.com/xrZuNcEAmTb6U.webp">
+          <img src="https://img.shields.io/badge/-Gmail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=a456f7" target="_blank"></a>
   </div>
+  
+  ##
+  
+  <div>
+       <img align="left" height="204em" widht="108em" margin-left="350px" src="https://i.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.webp">
+       <img align="center" height="204em" width="108em" src="https://i.giphy.com/xrZuNcEAmTb6U.webp">
+       <img align="left" height="204em" width="auto" src="https://i.giphy.com/4OV1bLOIWwIXRxpXlN.webp">
+  </div>
+  
