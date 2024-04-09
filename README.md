@@ -7,7 +7,7 @@
  
 - 👨🏾‍🎓 3/3 INI student (Informatic Tecnic for Internet ) at ITB.
 - 📓 Studying to become a full stack.
-- 🥳 18 years old.
+- 🥳 19 years old.
 
 </div>
 
