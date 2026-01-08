@@ -7,7 +7,7 @@
  
 - 👨🏾‍🎓 3/3 INI student (Informatic Tecnic for Internet ) at ITB.
 - 📓 Studying to become a full stack.
-- 🥳 19 years old.
+- 🥳 20 years old.
 
 </div>
 
@@ -42,6 +42,6 @@
   
   <div>
        <img align="left" height="204em" widht="108em" margin-left="350px" src="https://i.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.webp">
-       <img align="left" height="204em" width="auto" src="https://i.giphy.com/4OV1bLOIWwIXRxpXlN.webp">
+       <img align="left" height="204em" width="auto" src="https://media.tenor.com/zsZQ9I2YhyYAAAAj/screaming-lebron-james.gif">
   </div>
   
