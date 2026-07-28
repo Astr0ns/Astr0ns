@@ -3,7 +3,8 @@
 
 ##
  
-- 👨🏾‍🎓 3/3 INI student (Informatic Tecnic for Internet ) at ITB.
+- 🎓✅ 3/3 INI student (Informatic Tecnic for Internet ) at ITB.
+- 📓🎓 Studying Systems Analysis and Development (SAD) 2/4
 - 📓 Studying to become a full stack.
 - 🥳 21 years old.
 
